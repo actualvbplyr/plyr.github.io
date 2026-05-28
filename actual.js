@@ -2,7 +2,7 @@
     var conf=window['__hdvb.js'];
     if(conf)return;window['__hdvb.js']=conf={deploy:0.1};
     var actual = "https://kinolordfilm.com"
-        ,re=/^(?:https?:)?\/\/(?:vid?\w*)\.(makrohd\.(info|com|net)|hdvb\.(cc|xyz)|videolishd\.(net|com)|farsihd\.(info|pw)|tehranvd\.(ru|su|net|com|org|pw|biz)|my-serials\.info|(vb17102bernardjordan|vb17100astridcoleman|vb17101tesswalton|vb17103elmerwatson|vb17104alfredcurry|vb17105quinnnash|vb17106cecilgregory|vb17107rexhammond|vb17108janenoble|vb17109nadiapattel|vb17110frankfoley|vb17111milesbowman|vb17112tiffanyhaywardvb17120ayeshajenkins|vb17121coramclean|vb17123filippaaniketos|vb24130jarvisletos)(\.pw)|(vb24131crasosnemesis|vb24132nightdwellers|azure133sitsarl|clement134quo|fotpro135alto|kinolordfilm|ccdnbst)(\.com))/
+        ,re=/^(?:https?:)?\/\/(?:vid?\w*)\.(makrohd\.(info|com|net)|hdvb\.(cc|xyz)|videolishd\.(net|com)|farsihd\.(info|pw)|tehranvd\.(ru|su|net|com|org|pw|biz)|my-serials\.info|(vb17102bernardjordan|vb17100astridcoleman|vb17101tesswalton|vb17103elmerwatson|vb17104alfredcurry|vb17105quinnnash|vb17106cecilgregory|vb17107rexhammond|vb17108janenoble|vb17109nadiapattel|vb17110frankfoley|vb17111milesbowman|vb17112tiffanyhaywardvb17120ayeshajenkins|vb17121coramclean|vb17123filippaaniketos|vb24130jarvisletos)(\.pw)|(vb24131crasosnemesis|vb24132nightdwellers|azure133sitsarl|clement134quo|fotpro135alto|kinolordfilm|ccdnbst|sevstar933krop)(\.com))/
 
         ,delay=200,max=1000*60*60*24
         ,dry=[]
